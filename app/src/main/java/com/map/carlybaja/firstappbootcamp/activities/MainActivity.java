@@ -1,8 +1,10 @@
-package com.map.carlybaja.firstappbootcamp;
+package com.map.carlybaja.firstappbootcamp.activities;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.map.carlybaja.firstappbootcamp.R;
 
 public class MainActivity extends AppCompatActivity {
 
